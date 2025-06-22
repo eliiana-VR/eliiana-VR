@@ -1,9 +1,8 @@
 <h1 align="center">Hi ❤️​, I'm Eliana</h1>
-<h3 align="center">A Software Developer from Argentina!</h3>
+<h3 align="center">A Software Developer!</h3>
 
 - 🌱 I’m currently learning **JavaScript and Python to create awesome stuff and level up as a developer.**
 
-- ​🍪 Fun fact **I might have a dangerously intense obsession with cookies.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
